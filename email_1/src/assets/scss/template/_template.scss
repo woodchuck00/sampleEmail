@@ -1,0 +1,86 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+.orange_btn {
+  table {
+    td {
+      border-radius: 30px;
+      background: #f3a333 !important;
+      border: 0px solid #f3a333 !important;
+
+      a {
+        color: #fff;
+      }
+    }
+  }
+}
+
+.orange_bg {
+  background-color: #f3a333;
+}
+
+.grey_bg {
+  background-color: rgba(0,0,0,.8);
+}
+
+.black_bg {
+  background-color: #000;
+}
+
+
+// Body Styles 
+body,
+html, 
+.body {
+  background: #f3f3f3 !important;
+}
+
+.container.header {
+  background: #f3f3f3;
+}
+
+.body-drip {
+  border-top: 8px solid #663399;
+}
+
+// Full Width Headers
+.header {
+  background: #8a8a8a;
+}
+
+.header .columns {
+  padding-bottom: 0;
+}
+
+.header p {
+  color: #fff;
+  padding-top: 15px;
+}
+
+.header .wrapper-inner {
+  padding: 20px;
+}
+
+.header .container {
+  background: transparent;
+}
+
+// Social Media
+table.button.facebook table td {
+  background: #3B5998 !important;
+  border-color: #3B5998;
+}
+
+table.button.twitter table td {
+  background: #1daced !important;
+  border-color: #1daced;
+}
+
+table.button.google table td {
+  background: #DB4A39 !important;
+  border-color: #DB4A39;
+}
+
+.wrapper.secondary {
+  background: #f3f3f3;
+}
